@@ -55,4 +55,5 @@
 *.exe
 *.out
 *.app
+.idea/
 
